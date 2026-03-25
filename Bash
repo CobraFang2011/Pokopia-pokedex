@@ -1,0 +1,4 @@
+git clone https://github.com/CobraFang2011/pokopia-pokedex.git
+cd pokopia-pokedex
+npm install
+npm run dev
